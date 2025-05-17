@@ -1,0 +1,299 @@
+[2025-05-16 19:46:15] [SEND ERROR to hi] [Errno 11001] getaddrinfo failed
+[2025-05-16 19:47:21] [SEND ERROR to 12.0.0.1] [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[2025-05-16 19:47:29] [SEND ERROR to & C:/Users/shrey/AppData/Local/Programs/Python/Python313/python.exe c:/Users/shrey/OneDrive/Desktop/ipchatbot/bot_client.py] [Errno 11001] getaddrinfo failed
+[2025-05-16 19:56:04] [SEND ERROR to & C:/Users/shrey/AppData/Local/Programs/Python/Python313/python.exe c:/Users/shrey/OneDrive/Desktop/ipchatbot/bot_client.py] [Errno 11001] getaddrinfo failed
+[2025-05-16 19:57:45] [Sent to 127.0.0.1] shreya: hi
+[2025-05-16 19:57:45] 127.0.0.1 says: shreya: hi
+[2025-05-16 20:03:48] [Sent to 127.0.0.1] shreya: hi
+[2025-05-16 20:03:48] 127.0.0.1 says: shreya: hi
+[2025-05-16 20:11:20] [SEND ERROR to & C:/Users/shrey/AppData/Local/Programs/Python/Python313/python.exe c:/Users/shrey/OneDrive/Desktop/ipchatbot/bot_client.py] [Errno 11001] getaddrinfo failed
+[2025-05-16 20:13:23] [SEND ERROR to & C:/Users/shrey/AppData/Local/Programs/Python/Python313/python.exe c:/Users/shrey/OneDrive/Desktop/ipchatbot/bot_client.py] [Errno 11001] getaddrinfo failed
+[2025-05-16 20:17:39] [Sent to 127.0.0.1] gjgi: hi
+[2025-05-16 20:17:39] 127.0.0.1 says: gjgi: hi
+[2025-05-16 20:18:55] [Sent to 127.0.0.1] ugigh: hi
+[2025-05-16 20:18:55] 127.0.0.1 says: ugigh: hi
+[2025-05-16 20:28:19] 127.0.0.1 says: 
+[2025-05-16 20:28:19] 127.0.0.1 says: shrey: hi
+[2025-05-16 20:28:19] [SEND ERROR to 127.0.0.1] 'charmap' codec can't encode character '\u2717' in position 23: character maps to <undefined>
+[2025-05-16 20:31:55] 127.0.0.1 says: 
+[2025-05-16 20:31:55] 127.0.0.1 says: Anonymous: hi
+[2025-05-16 20:31:55] [✗ No ACK from 127.0.0.1]
+[2025-05-16 20:31:55] [Sent to 127.0.0.1] Anonymous: hi
+[2025-05-16 20:35:55] 127.0.0.1 says: 
+[2025-05-16 20:35:55] 127.0.0.1 says: shrey: hi
+[2025-05-16 20:35:55] [✗ No ACK from 127.0.0.1]
+[2025-05-16 20:35:55] [Sent to 127.0.0.1] shrey: hi
+[2025-05-16 20:36:24] 127.0.0.1 says: 
+[2025-05-16 20:36:24] 127.0.0.1 says: mahika: hi
+[2025-05-16 20:36:24] [✗ No ACK from 127.0.0.1]
+[2025-05-16 20:36:24] [Sent to 127.0.0.1] mahika: hi
+[2025-05-16 20:36:34] 192.168.1.3 says: 
+[2025-05-16 20:36:34] 192.168.1.3 says: mahika: hi
+[2025-05-16 20:36:34] [✗ No ACK from shrey]
+[2025-05-16 20:36:34] [Sent to shrey] mahika: hi
+[2025-05-16 20:39:49] 127.0.0.1 says: 
+[2025-05-16 20:39:49] 127.0.0.1 says: Anonymous: hi
+[2025-05-16 20:39:49] [✗ No ACK from 127.0.0.1]
+[2025-05-16 20:39:49] [Sent to 127.0.0.1] Anonymous: hi
+[2025-05-16 20:42:03] 127.0.0.1 says: 
+[2025-05-16 20:42:03] 127.0.0.1 says: shrey: hi
+[2025-05-16 20:42:03] [✓ Delivered to 127.0.0.1]
+[2025-05-16 20:42:03] [Sent to 127.0.0.1] shrey: hi
+[2025-05-16 20:42:26] 127.0.0.1 says: 
+[2025-05-16 20:42:26] 127.0.0.1 says: shrey (file: requirements.txt):
+flask
+
+[2025-05-16 20:42:26] [✓ Delivered to 127.0.0.1]
+[2025-05-16 20:42:26] [Sent to 127.0.0.1] shrey (file: requirements.txt):
+flask
+
+[2025-05-16 20:53:54] 
+[2025-05-16 20:53:57] ✗ No ACK from 127.0.0.1
+[2025-05-16 20:53:57] DOS: hi
+[2025-05-16 20:53:57] DOS: hi
+[20:56:23] ✗ No ACK from 127.0.0.1
+[20:56:23] You to 127.0.0.1: Anonymous: hi
+[20:56:20] 127.0.0.1 says: 
+[20:56:23] 127.0.0.1 says: Anonymous: hi
+[21:03:38] 127.0.0.1 says: 
+[21:03:38] 127.0.0.1 says: shrey: hi
+[21:03:38] ✓ Delivered to 127.0.0.9
+[21:03:38] You to 127.0.0.9: shrey: hi
+[21:06:21] 127.0.0.1 says: 
+[21:06:21] 127.0.0.1 says: shrey: hi
+[21:06:21] ✓ Delivered to 127.0.0.1
+[21:06:21] You to 127.0.0.1: shrey: hi
+[21:06:40] 127.0.0.1 says: 
+[21:06:40] 127.0.0.1 says: shrey (file: requirements.txt):
+flask
+
+[21:06:40] ✓ Delivered to 127.0.0.1
+[21:06:40] You to 127.0.0.1: shrey (file: requirements.txt):
+flask
+
+[10:10:03] 172.20.10.18 says: 
+[10:10:03] 172.20.10.18 says: mahika: hi
+[10:21:57] 172.20.10.21 says: 
+[10:21:57] 172.20.10.21 says: sahana: hi
+[10:23:02] 172.20.10.18 says: 
+[10:23:02] 172.20.10.18 says: Anonymous: hi
+[10:24:17] 172.20.10.21 says: 
+[10:24:17] 172.20.10.21 says: sahana: ignp
+[11:01:21] 172.20.10.21 says: 
+[11:01:21] 172.20.10.21 says: sahana: hi guys
+[11:02:12] 172.20.10.21 says: 
+[11:02:12] 172.20.10.21 says: sahana: hello guys
+[11:02:18] 172.20.10.18 says: 
+[11:02:18] 172.20.10.18 says: Anonymous: hi
+[11:02:27] 172.20.10.18 says: 
+[11:02:27] 172.20.10.18 says: Anonymous: hihi
+[11:02:40] ✓ Delivered to 172.20.10.18
+[11:02:40] You to 172.20.10.18: shrey: hello
+[11:02:40] ✓ Delivered to 172.20.10.21
+[11:02:40] You to 172.20.10.21: shrey: hello
+[11:02:43] ✗ No ACK from 172.20.10.20
+[11:02:43] You to 172.20.10.20: shrey: hello
+[11:02:40] 172.20.10.20 says: 
+[11:02:43] 172.20.10.20 says: shrey: hello
+[11:03:31] ✓ Delivered to 172.20.10.18
+[11:03:31] You to 172.20.10.18: shrey (file: requirements.txt):
+flask
+
+[11:03:32] ✓ Delivered to 172.20.10.21
+[11:03:32] You to 172.20.10.21: shrey (file: requirements.txt):
+flask
+
+[11:03:35] ✗ No ACK from 172.20.10.20
+[11:03:35] You to 172.20.10.20: shrey (file: requirements.txt):
+flask
+
+[11:03:32] 172.20.10.20 says: 
+[11:03:35] 172.20.10.20 says: shrey (file: requirements.txt):
+flask
+
+[11:03:35] 172.20.10.21 says: 
+[11:03:35] 172.20.10.21 says: sahana (file: requirements.txt):
+
+[11:05:33] ✓ Delivered to 172.20.10.18
+[11:05:33] You to 172.20.10.18: shrey (file: hi.txt):
+ahfiphjfodj,;x
+[11:05:33] ✓ Delivered to 172.20.10.21
+[11:05:33] You to 172.20.10.21: shrey (file: hi.txt):
+ahfiphjfodj,;x
+[11:05:36] ✗ No ACK from 172.20.10.20
+[11:05:36] You to 172.20.10.20: shrey (file: hi.txt):
+ahfiphjfodj,;x
+[11:05:33] 172.20.10.20 says: 
+[11:05:36] 172.20.10.20 says: shrey (file: hi.txt):
+ahfiphjfodj,;x
+[11:05:50] 172.20.10.21 says: 
+[11:05:50] 172.20.10.21 says: sahana (file: New Text Document.txt):
+
+[11:06:32] 172.20.10.21 says: 
+[11:06:32] 172.20.10.21 says: sahana (file: New Text Document.txt):
+
+[11:06:36] ✓ Delivered to 172.20.10.18
+[11:06:36] You to 172.20.10.18: shrey (file: hi.txt):
+DSA MASTER: Gamifying Data Structures Learning
+1. Abstract
+Data Structures and Algorithms (DSA) form a crucial foundation in computer science. However, traditional learning methods often make these concepts difficult to grasp. To address this, our team developed DSA Master, an interactive web-based platform integrating gamification into learning fundamental DSA concepts, specifically focusing on Stack Implementation.
+The objective of DSA Master is to simplify the learning of Stacks and Arrays through interactive visualizations, quizzes, coding challenges, and gamified assessments. Using animations, step-by-step demonstrations, and performance tracking, the platform enhances student engagement and knowledge retention.
+The project was developed using Next.js for frontend, Express.js for backend, and MongoDB for data storage, ensuring scalability and efficiency.
+This report provides an in-depth breakdown of the system architecture, gamification strategies, implementation techniques, challenges, and impact of DSA Master in improving DSA education.
+________________________________________
+2. Introduction to the DSA Master Project
+2.1 Overview
+DSA Master is an educational web-based platform designed to transform Data Structures learning into an engaging, interactive, and gamified experience. The platform addresses studentsâ€™ struggles with abstract DSA concepts by incorporating step-by-step visualizations and interactive exercises.
+Our team focused on three key aspects of Stack Implementation:
+â€¢	Introduction to Stacks: Understanding LIFO (Last In First Out) principles.
+â€¢	Stack Operations: Push, Pop, and Peek operations with time complexity analysis.
+â€¢	Stack Implementation: Array-based and Linked List-based implementations.
+By integrating these topics with interactive coding modules, quizzes, and visual learning elements, DSA Master provides a comprehensive and immersive educational experience.
+2.2 Objectives
+
+[11:06:36] ✓ Delivered to 172.20.10.21
+[11:06:36] You to 172.20.10.21: shrey (file: hi.txt):
+DSA MASTER: Gamifying Data Structures Learning
+1. Abstract
+Data Structures and Algorithms (DSA) form a crucial foundation in computer science. However, traditional learning methods often make these concepts difficult to grasp. To address this, our team developed DSA Master, an interactive web-based platform integrating gamification into learning fundamental DSA concepts, specifically focusing on Stack Implementation.
+The objective of DSA Master is to simplify the learning of Stacks and Arrays through interactive visualizations, quizzes, coding challenges, and gamified assessments. Using animations, step-by-step demonstrations, and performance tracking, the platform enhances student engagement and knowledge retention.
+The project was developed using Next.js for frontend, Express.js for backend, and MongoDB for data storage, ensuring scalability and efficiency.
+This report provides an in-depth breakdown of the system architecture, gamification strategies, implementation techniques, challenges, and impact of DSA Master in improving DSA education.
+________________________________________
+2. Introduction to the DSA Master Project
+2.1 Overview
+DSA Master is an educational web-based platform designed to transform Data Structures learning into an engaging, interactive, and gamified experience. The platform addresses studentsâ€™ struggles with abstract DSA concepts by incorporating step-by-step visualizations and interactive exercises.
+Our team focused on three key aspects of Stack Implementation:
+â€¢	Introduction to Stacks: Understanding LIFO (Last In First Out) principles.
+â€¢	Stack Operations: Push, Pop, and Peek operations with time complexity analysis.
+â€¢	Stack Implementation: Array-based and Linked List-based implementations.
+By integrating these topics with interactive coding modules, quizzes, and visual learning elements, DSA Master provides a comprehensive and immersive educational experience.
+2.2 Objectives
+
+[11:06:39] ✗ No ACK from 172.20.10.20
+[11:06:39] You to 172.20.10.20: shrey (file: hi.txt):
+DSA MASTER: Gamifying Data Structures Learning
+1. Abstract
+Data Structures and Algorithms (DSA) form a crucial foundation in computer science. However, traditional learning methods often make these concepts difficult to grasp. To address this, our team developed DSA Master, an interactive web-based platform integrating gamification into learning fundamental DSA concepts, specifically focusing on Stack Implementation.
+The objective of DSA Master is to simplify the learning of Stacks and Arrays through interactive visualizations, quizzes, coding challenges, and gamified assessments. Using animations, step-by-step demonstrations, and performance tracking, the platform enhances student engagement and knowledge retention.
+The project was developed using Next.js for frontend, Express.js for backend, and MongoDB for data storage, ensuring scalability and efficiency.
+This report provides an in-depth breakdown of the system architecture, gamification strategies, implementation techniques, challenges, and impact of DSA Master in improving DSA education.
+________________________________________
+2. Introduction to the DSA Master Project
+2.1 Overview
+DSA Master is an educational web-based platform designed to transform Data Structures learning into an engaging, interactive, and gamified experience. The platform addresses studentsâ€™ struggles with abstract DSA concepts by incorporating step-by-step visualizations and interactive exercises.
+Our team focused on three key aspects of Stack Implementation:
+â€¢	Introduction to Stacks: Understanding LIFO (Last In First Out) principles.
+â€¢	Stack Operations: Push, Pop, and Peek operations with time complexity analysis.
+â€¢	Stack Implementation: Array-based and Linked List-based implementations.
+By integrating these topics with interactive coding modules, quizzes, and visual learning elements, DSA Master provides a comprehensive and immersive educational experience.
+2.2 Objectives
+
+[11:06:36] 172.20.10.20 says: 
+[11:06:39] 172.20.10.20 says: shrey (file: hi.txt):
+DSA MASTER: Gamifying Data Structures Learning
+1. Abstract
+Data Structures and Algorithms (DSA) form a crucial foundation in computer science. However, traditional learning methods often make these concepts difficult to grasp. To address this, our team developed DSA Master, an interactive web-based platform integrating gamification into learning fundamental DSA concepts, specifically focusing on Stack Implementation.
+The objective of DSA Master is to simplify the learning of Stacks and Arrays through interactive visualizations, quizzes, coding challenges, and gamified assessments. Using animations, step-by-step demonstrations, and performance tracking, the platform enhances student engagement and knowledge retention.
+The project was developed using Next.js for frontend, Express.js for backend, and MongoDB for data storage, ensuring scalability and efficiency.
+This report provides an in-depth breakdown of the system architecture, gamification strategies, implementation techniques, challenges, and impact of DSA Master in improving DSA education.
+________________________________________
+2. Introduction to the DSA Master Project
+2.1 Overview
+DSA Master is an educational web-based platform designed to transform Data Structures learning into an engaging, interactive, and gamified experience. The platform addresses studentsâ€™ struggles with abstract DSA concepts by incorporating step-by-step visualizations and interactive exercises.
+Our team focused on three key aspects of Stack Implementation:
+â€¢	Introduction to Stacks: Understanding LIFO (Last In First Out) principles.
+â€¢	Stack Operations: Push, Pop, and Peek operations with time complexity analysis.
+â€¢	Stack Implementation: Array-based and Linked List-based implementations.
+By integrating these topics with interactive coding modules, quizzes, and visual learning elements, DSA Master provides a comprehensive and immersive educational experience.
+2.2 Objectives
+
+[11:06:54] 172.20.10.21 says: 
+[11:06:54] 172.20.10.21 says: sahana (file: New Text Document.txt):
+
+[11:07:16] 172.20.10.21 says: 
+[11:07:16] 172.20.10.21 says: sahana (file: New Text Document.txt):
+today is Saturday 
+
+[11:08:02] 172.20.10.21 says: 
+[11:08:02] 172.20.10.21 says: sahana (file: New Text Document.txt):
+today is Saturday 
+
+[11:08:09] ✓ Delivered to 172.20.10.18
+[11:08:09] You to 172.20.10.18: shrey (file: hi.txt):
+DSA MASTER: Gamifying Data Structures Learning
+1. Abstract
+Data Structures and Algorithms (DSA) form a crucial foundation in computer science. However, traditional learning methods often make these concepts difficult to grasp. To address this, our team developed DSA Master, an interactive web-based platform integrating gamification into learning fundamental DSA concepts, specifically focusing on Stack Implementation.
+The objective of DSA Master is to simplify the learning of Stacks and Arrays through interactive visualizations, quizzes, coding challenges, and gamified assessments. Using animations, step-by-step demonstrations, and performance tracking, the platform enhances student engagement and knowledge retention.
+The project was developed using Next.js for frontend, Express.js for backend, and MongoDB for data storage, ensuring scalability and efficiency.
+This report provides an in-depth breakdown of the system architecture, gamification strategies, implementation techniques, challenges, and impact of DSA Master in improving DSA education.
+________________________________________
+2. Introduction to the DSA Master Project
+2.1 Overview
+DSA Master is an educational web-based platform designed to transform Data Structures learning into an engaging, interactive, and gamified experience. The platform addresses studentsâ€™ struggles with abstract DSA concepts by incorporating step-by-step visualizations and interactive exercises.
+Our team focused on three key aspects of Stack Implementation:
+â€¢	Introduction to Stacks: Understanding LIFO (Last In First Out) principles.
+â€¢	Stack Operations: Push, Pop, and Peek operations with time complexity analysis.
+â€¢	Stack Implementation: Array-based and Linked List-based implementations.
+By integrating these topics with interactive coding modules, quizzes, and visual learning elements, DSA Master provides a comprehensive and immersive educational experience.
+2.2 Objectives
+
+[11:08:10] ✓ Delivered to 172.20.10.21
+[11:08:10] You to 172.20.10.21: shrey (file: hi.txt):
+DSA MASTER: Gamifying Data Structures Learning
+1. Abstract
+Data Structures and Algorithms (DSA) form a crucial foundation in computer science. However, traditional learning methods often make these concepts difficult to grasp. To address this, our team developed DSA Master, an interactive web-based platform integrating gamification into learning fundamental DSA concepts, specifically focusing on Stack Implementation.
+The objective of DSA Master is to simplify the learning of Stacks and Arrays through interactive visualizations, quizzes, coding challenges, and gamified assessments. Using animations, step-by-step demonstrations, and performance tracking, the platform enhances student engagement and knowledge retention.
+The project was developed using Next.js for frontend, Express.js for backend, and MongoDB for data storage, ensuring scalability and efficiency.
+This report provides an in-depth breakdown of the system architecture, gamification strategies, implementation techniques, challenges, and impact of DSA Master in improving DSA education.
+________________________________________
+2. Introduction to the DSA Master Project
+2.1 Overview
+DSA Master is an educational web-based platform designed to transform Data Structures learning into an engaging, interactive, and gamified experience. The platform addresses studentsâ€™ struggles with abstract DSA concepts by incorporating step-by-step visualizations and interactive exercises.
+Our team focused on three key aspects of Stack Implementation:
+â€¢	Introduction to Stacks: Understanding LIFO (Last In First Out) principles.
+â€¢	Stack Operations: Push, Pop, and Peek operations with time complexity analysis.
+â€¢	Stack Implementation: Array-based and Linked List-based implementations.
+By integrating these topics with interactive coding modules, quizzes, and visual learning elements, DSA Master provides a comprehensive and immersive educational experience.
+2.2 Objectives
+
+[11:08:13] ✗ No ACK from 172.20.10.20
+[11:08:13] You to 172.20.10.20: shrey (file: hi.txt):
+DSA MASTER: Gamifying Data Structures Learning
+1. Abstract
+Data Structures and Algorithms (DSA) form a crucial foundation in computer science. However, traditional learning methods often make these concepts difficult to grasp. To address this, our team developed DSA Master, an interactive web-based platform integrating gamification into learning fundamental DSA concepts, specifically focusing on Stack Implementation.
+The objective of DSA Master is to simplify the learning of Stacks and Arrays through interactive visualizations, quizzes, coding challenges, and gamified assessments. Using animations, step-by-step demonstrations, and performance tracking, the platform enhances student engagement and knowledge retention.
+The project was developed using Next.js for frontend, Express.js for backend, and MongoDB for data storage, ensuring scalability and efficiency.
+This report provides an in-depth breakdown of the system architecture, gamification strategies, implementation techniques, challenges, and impact of DSA Master in improving DSA education.
+________________________________________
+2. Introduction to the DSA Master Project
+2.1 Overview
+DSA Master is an educational web-based platform designed to transform Data Structures learning into an engaging, interactive, and gamified experience. The platform addresses studentsâ€™ struggles with abstract DSA concepts by incorporating step-by-step visualizations and interactive exercises.
+Our team focused on three key aspects of Stack Implementation:
+â€¢	Introduction to Stacks: Understanding LIFO (Last In First Out) principles.
+â€¢	Stack Operations: Push, Pop, and Peek operations with time complexity analysis.
+â€¢	Stack Implementation: Array-based and Linked List-based implementations.
+By integrating these topics with interactive coding modules, quizzes, and visual learning elements, DSA Master provides a comprehensive and immersive educational experience.
+2.2 Objectives
+
+[11:08:10] 172.20.10.20 says: 
+[11:08:13] 172.20.10.20 says: shrey (file: hi.txt):
+DSA MASTER: Gamifying Data Structures Learning
+1. Abstract
+Data Structures and Algorithms (DSA) form a crucial foundation in computer science. However, traditional learning methods often make these concepts difficult to grasp. To address this, our team developed DSA Master, an interactive web-based platform integrating gamification into learning fundamental DSA concepts, specifically focusing on Stack Implementation.
+The objective of DSA Master is to simplify the learning of Stacks and Arrays through interactive visualizations, quizzes, coding challenges, and gamified assessments. Using animations, step-by-step demonstrations, and performance tracking, the platform enhances student engagement and knowledge retention.
+The project was developed using Next.js for frontend, Express.js for backend, and MongoDB for data storage, ensuring scalability and efficiency.
+This report provides an in-depth breakdown of the system architecture, gamification strategies, implementation techniques, challenges, and impact of DSA Master in improving DSA education.
+________________________________________
+2. Introduction to the DSA Master Project
+2.1 Overview
+DSA Master is an educational web-based platform designed to transform Data Structures learning into an engaging, interactive, and gamified experience. The platform addresses studentsâ€™ struggles with abstract DSA concepts by incorporating step-by-step visualizations and interactive exercises.
+Our team focused on three key aspects of Stack Implementation:
+â€¢	Introduction to Stacks: Understanding LIFO (Last In First Out) principles.
+â€¢	Stack Operations: Push, Pop, and Peek operations with time complexity analysis.
+â€¢	Stack Implementation: Array-based and Linked List-based implementations.
+By integrating these topics with interactive coding modules, quizzes, and visual learning elements, DSA Master provides a comprehensive and immersive educational experience.
+2.2 Objectives
+
+[11:14:51] 172.20.10.18 says: 
+[11:14:51] 172.20.10.18 says: Anonymous: hi
